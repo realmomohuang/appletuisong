@@ -1,0 +1,4 @@
+HOST-SUFFIX,push.apple.com
+HOST-SUFFIX,gateway.push.apple.com
+HOST-SUFFIX,api.push.apple.com
+HOST-SUFFIX,sandbox.push.apple.com
